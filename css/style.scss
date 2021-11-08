@@ -31,8 +31,8 @@ body{
         width: 100%;
         height: 100%;
         transform-style: preserve-3d;
-        transform: rotateY(calc(var(--i)*45deg)) translateZ(400px);
-        -webkit-box-reflect: below 0px linear-gradient(transparent,transparent,#0004);
+        transform: rotateY(calc(var(--i)*45deg)) translateZ(300px);
+        -webkit-box-reflect: below 10px linear-gradient(transparent,transparent,#0004);
         img{
             position: absolute;
             top: 0;
